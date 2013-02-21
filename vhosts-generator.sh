@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 #########################################
 # Written by: Robin PARISI
 # Contact at: parisi.robin@gmail.com
